@@ -1,0 +1,176 @@
+tag,patterns,responses
+worthless,I feel so worthless.,It's only natural to feel this way. Tell me more. What else is on your mind?
+worthless,No one likes me.,Let's discuss further why you're feeling this way.
+worthless,I can't do anything.,I first want to let you know that you are not alone in your feelings and there is always someone there to help.
+worthless,I am so useless,you can always change your feelings and change your way of thinking by being open to trying to change.
+worthless,Nothing makes sense anymore,i first want to let you know that you are not alone in your feelings and there is always someone there to help.
+worthless,the world doesn't need me,"you are more than that "
+worthless,my teacher don't like me,"you are not alone "
+worthless,my friends don't like me,please don't feel this way
+worthless,my parents don't like me,"you are more than that, tell me more"
+worthless,I feel my boyfriend don't really need me,"you are not alone, tell me more "
+worthless,"I feel my girlfriend don't really need me ","You shouldn't feel that way, maybe she needs you"
+worthless,"I don't think I fit in the team at work ",why makes you think so?
+worthless,"my manager don't like me ",why do you think so?
+worthless,"my girlfriend don't like me ",what really happened between you two?
+worthless,"my boyfriend don't like me ",what really happened between your boyfriend?
+worthless,"I feel my team at work don't need me ","you are one of important member of the team of course they need you "
+worthless,"my project team at school don't need me ",you are one of the team member of course they need you
+worthless,"nothing is right for me ",why you say so?
+worthless,I am just a useless person,"I think you are more than that "
+worthless,I am so worthless,"I actually think you are more than that "
+worthless,I don't worth a dime,what makes you say so?
+worthless,"I am not helpful at all when I do work with my team ",why you think you are not helpful at all?
+worthless,I am useless at work,tell me why you feel so?
+worthless,I am useless at school,tell me why you think so?
+worthless,I am useless around my house,why do you think so?
+depressed,I can't take it anymore,It helps to talk about what's happening. You're going to be okay
+depressed,I am so depressed,Talk to me. Tell me more. It helps if you open up yourself to someone else.
+depressed,I think i'm depressed.,"Sometimes when we are depressed, it is hard to care about anything. It can be hard to do the simplest of things. Give yourself time to heal."
+depressed,I have depression,"Everything will be ok "
+depressed,"I feel a little depressed recently ","No worries I am here to help you "
+depressed,I think I am going through a depression,"You are going to be ok "
+depressed,I feel a little depressed,"Don't panic, it will be over evently"
+depressed,"I am sad and depressed ",Let me know what makes you feel this way?
+depressed,I feel discouraged,"It will be ok, tell me more about it?"
+depressed,"I felt discouraged recently ","Don't worry, we can talk about what happen"
+depressed,I think I am going through a sadness,"Don't panic, we can talk about what happen"
+depressed,I can't take it any longer,"Don't worry, please share what have happened to you"
+depressed,I have depression and I can't take it anymore,"No worries, share what have happeded to you "
+depressed,I think I have depression and I can't take it any longer,"I can’t imagine how you feel, but I’m here for you if you need me."
+depressed,I am so discouraged,"I wish I had the right words to say, but just know that I care about you."
+depressed,I have discouragement,"Sorry to hear, but tell me what happened"
+depressed,I feel a small discouraged as of late,"Sorry to hear, and I want to help you feel better"
+depressed,"I felt a bit depressed lately ",Do you want to talk about it?
+depressed,I felt a bit discouraged lately,Is there anything you need from me?
+depressed,I think I am going through a misery,"I know things are difficult right now, but I have confidence in you."
+depressed,I am going through a depressed time of my life,"Sorry to hear that, what can I do to make this easier"
+depressed,I am going through a hard time of my life,"Sorry to hear that, what can I do to make you feel better"
+depressed,I am going through a discouraged time of my life,"Don't panic, I know you’re strong enough to get through this."
+depressed,"I feel very discouraged and I can't take it ",How can I help you?
+depressed,I felt so discouraged and I wang to get over it,How can I help?
+happy,I feel great today.,That's geat to hear. I'm glad you're feeling this way.
+happy,I am happy.,Oh i see. That's great.
+happy,I feel happy.,Did something happen which made you feel this way?
+happy,I'm good.,That's great
+happy,cheerful,That's awesome
+happy,I feel excellent,That's good to hear
+happy,I feel ok,"I am happy for you "
+happy,"I am feeling very happy ","I feel happy for you "
+happy,I am feeling very good today,I am glad that you feel this way
+happy,I had a excellent day so far,I am glad you feel this way
+happy,"I feel excellent today ",I am glad you feel happy
+happy,I feel happy today,I am glad you feel great
+happy,I am very happy,share me your joy
+happy,I feel incredible,"That's great, please share with me "
+happy,"I feel incredible today ","That's awesome, please share with me"
+happy,I feel so incredible,That's wonderful
+happy,I am upbeat.,"That's wonderful, please share with me"
+happy,I feel upbeat,Glad to hear this
+happy,"I feel upbeat today ","Thanks for letting me know, I am happy for you"
+happy,I feel amazing,"Happy for you "
+happy,"I am feeling good today ","Good for you "
+happy,"I am feeling amazing today ",I am delighted for you
+happy,"I am feeling great today ",you are happy so i am happy too
+happy,"I am feeling incredible today ",That means you are doing great
+happy,"I am feeling wonderful today ",i'm proud of you
+anxious,I feel so anxious.,Don't be hard on yourself. What's the reason behind this?
+anxious,I'm so anxious,Can you tell me more about this feeling?
+anxious,I feel very anxious,I understand that it can be scary. Tell me more about it.
+anxious,I don’t feel good,Don't let the little worries bring you down. What's the worse that can happen?
+anxious,I’m exhausted.,I am here with you.
+anxious,"I’m OK, just tired.",I wish I could take this pain away.
+anxious,"I am so exhausted ",This is a lot right now.
+anxious,"I feel very exhausted ","I don't know what to say, but I am here for you."
+anxious,I feel so on edge.,It's ok if you don't feel like being strong today.
+anxious,I feel like I am trapping in a loop,"I'm here for you, and I'm not going anywhere."
+anxious,I feel concerned,I'm always here for you.
+anxious,I am worried about my life,This really sucks.
+anxious,"I am worried about my current situation ",I am grateful to be here with you.
+anxious,"I am worried about my life now ",You are not alone in how you feel.
+anxious,I am concerned about my life,Let's sort through this together.
+anxious,"I am concerned about my current situation ","Worrying is helpful, sometimes."
+anxious,"I am concerned about my life now ",I know a lot can go wrong; what could go right?
+anxious,I am anxious about my life,I know this is hard.
+anxious,I am anxious about my current situation,This is hard.
+anxious,I am anxious about my life now,Your worries are not silly.
+anxious,"I am anxious about my work at school ",Would it help if I just sat here with you?
+anxious,"I am worried about my work at school ",I'm going to stay with you through this.
+anxious,I am so concerned about my work at school,You don't have to do this by yourself; I'm here with you.
+anxious,I felt my life is falling apart,You're not alone.
+anxious,I felt my grade at school is falling apart.,We'll navigate through this together.
+not-talking,I don't want to talk about it.,Talking about something really helps.
+not-talking,No just stay away.,If you're not ready to open up then that's ok
+not-talking,I can't bring myself to open up.,"Just know that i'm here for you, whenever you need me."
+not-talking,Just shut up,I want to help you. I really do.
+not-talking,"I don't feel like talking ","in order for me to help you, you're gonna have to talk to me."
+not-talking,I don't feel like talking about this,I'm here to listen to you and help you vent
+not-talking,"I don't feel comfortable talking about it ",please talk to me
+not-talking,"I don't feel comfortable talking ",You can talk to me without fear of judgement.
+not-talking,"I don't feel like sharing anything  ",What's going on?
+not-talking,"Not sharing anything ","I am here to hear you out "
+not-talking,I want to be alone,"Tell me what happened, and I will help you "
+not-talking,"I do not need to conversation around it ","Tell me what happened, and I want to help you "
+not-talking,I don't want to start a conversation,"Tell me what's going on, and I will help you "
+not-talking,I don't want to start a conversation about it,"Tell me what's going on, and I want to help you "
+not-talking,I don't want to have a conversation,"Sorry to hear that, I really want to make you feel better"
+not-talking,I don't want to have a conversaton right now,"It's ok, but I am always here to listen to you "
+not-talking,"I don't think I need to talk to anyone ","I want to let you know that I am always here to listen to you "
+not-talking,I don't think I need to have a conversation with anyone,"I don't want to make you uncomfortable, but I do want to talk you out of this "
+not-talking,"maybe I need to lock myself in a room ","It's ok, share me whatever you are comfortable with"
+not-talking,"I need some time for myself ","Talk to me anything "
+not-talking,"I would not want any conversation now ","I want to hear from you, please tell me what happened "
+not-talking,I would not want any talk now,"I am worried about you, what happened?"
+not-talking,"I would love if you can leave me alone ","I think you need to start talking, so you can feel better"
+not-talking,I don't need any one to talk to me now,"I think if you tell me what's going on, I can make you fell better"
+not-talking,I don't feel like any sort of conversation now,"That's ok, let me know when you are comfortable to talk "
+sleep,I have insominia,What do you think is the reason behind this?
+sleep,I am suffering from insomnia,That seem awful. What do you think is behind this?
+sleep,I can't sleep.,Relex and play some soft music
+sleep,I haven't slept for the last days.,Take couple of deep breath relex yourself
+sleep,I can't seem to go to sleep.,relex yourself
+sleep,I haven't had proper sleep for the past few days.,Relex your entire body when you go to bed
+sleep,"I can't fall asleep ",Don't think about anything that worries you when you go to bed
+sleep,"I have hard time fall asleep ",Don't think about thing that worries you when you go to bed
+sleep,I haven't sleep well recently,Put everything down and focus on your sleep next time
+sleep,"I need a good night sleep ","Do you know why you can't fall asleep "
+sleep,I really struggle with my sleep recently,Do you know what could caused your insominia?
+sleep,"I am struggling with my sleep recently ",Do you know what could caused your bad sleep?
+sleep,I am enduring from sleep deprivation,Do you know what might caused your insominia?
+sleep,I can't rest.,Do you know what might caused your bad sleep?
+sleep,"I can't go to bed and fall in asleep ",Do you know why you can't have a good sleep?
+sleep,"It's hard for me to have a good night sleep recently ",Do you know why you can't have a good night sleep?
+sleep,It's difficult for me to have a great night rest as of late,Do you want to share why you can't have a good night sleep?
+sleep,It's difficult for me to have a good night sleep,"Do you want to share what might caused the bad sleep? "
+sleep,I don't think I rest welll,Do you think you know why you can't fall asleep
+sleep,"I definitely need more sleep ","Do you potentially know why you can't fall asleep "
+sleep,"I don't think I rest well at night ",Do you feel comfortable sharing anything?
+sleep,"don't sleep well recently ","Maybe clear your mind our when you go to sleep next time. "
+sleep,"can't go to sleep at night ","Don't worry, tell me what might caused your bad sleep"
+sleep,"can't go to sleep when it's bedtime ","Don't worry, tell me what might stop you from a good sleep "
+sleep,"I need more sleep for myself ","Tell me what might stop you from a good sleep "
+scared,I'm scared,It's only natural to feel this way. I'm here for you.
+scared,What do i do?,It'll all be okay. This feeling is only momentary.
+scared,No i don't want to feel this way,I understand how you feel. Don't put yourself down because of it.
+scared,I am scared for myself,It's as it were normal to feel this way. I'm here for you.
+scared,I feel scared,It's because it were ordinary to feel this way. I'm here for you.
+scared,I'm frightened,It's since it were standard to feel this way. I'm here for you.
+scared,No i do not need to feel this way,What’s wrong?
+scared,I'm startled,Did something happen?
+scared,"oh my god, I can't stand this",Can you tell me more about your experience?
+scared,I'm freaking out right now.,I’m so sorry.
+scared,I was so sketched out.,I’m always here if you need to talk.
+scared,"I don't feel good ",How can I help you right now?
+scared,"I am so scared ",You’re not alone.
+scared,I don't feel safe,I’ll stay with you for as long as you need me to be.
+scared,"Very scary ",I am right here.
+scared,I don't feel safe right now,It’s okay to feel scared. We all do.
+scared,I don't feel safe now,It’s not silly to feel the way you do.
+scared,"I am frightened right now ","I might not understand what you’re going through, but I’m always here for you to talk to me if you need to"
+scared,I am so scared now,You’re not alone
+scared,"I am so scare and don't know what to do ",I’m always here if you need to talk
+scared,"I freaked out ",What can I do to help right now?
+scared,"I am so freaked out now ",You can always talk to me
+scared,"I am so freaked out right now ",Let's sort through this together
+scared,"I am so sketched out now ","Don't be afraid, we are in this together "
+scared,"I am so sketched out right now. ","Don't be afraid, tell me what's going to"
