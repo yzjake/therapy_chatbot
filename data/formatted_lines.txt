@@ -1,0 +1,700 @@
+Hi	Hello there. Tell me how are you feeling today?
+Hey	Hi there. What brings you here today?
+Is anyone there	Hi there. How are you feeling today?
+Hi there	Great to see you. How do you feel currently?
+Hello	Hello there. Glad to see you're back. What's going on in your world right now?
+Hey there	How do you do? Do you have a good day?
+Howdy	Nice to meet you sir
+Hola	Good to see you sir
+Hiya	Hey! Long-time no see. How are you?
+Yo	What's the story?
+Hey chatbot	It's a pleasure to meet you
+Bonjour	It's pleased to meet you
+Konnichiwa	How's your life talk about it.
+Guten tag	Whazzup?
+Ola	How are you feeling today?
+Good Morning	How is your day going?
+Good Afternoon	How has your day been?
+Good Evening	I hope you had a good day
+I really need someone talk to me	How's everything?
+Can you talk to me	How are things?
+Hello are you there	It's been a while. Tell me how's your day.
+Are you there	Good to see you. You can always talk to me.
+Hello chatbot	It's good to see you. You can talk to me.
+Hi chatbot	It's nice to see you. I will here listen to you
+chatbot can you talk to me	I will listen to you here.
+Bye	See you later.
+I must be going	Have a nice day.
+See you later	Bye! Come back again.
+Goodbye	I'll see you soon.
+Au revoir	Bye Get some proper sleep.
+Sayonara	I look forward to our next meeting.
+ok bye	Have a great rest of your day!
+Bye then	Have a nice day!
+Fare thee well	It was a pleasure speaking with you.
+Talk to you later	It was a pleasure seeing you to you.
+See you	It was a pleasure talking you to you.
+See ya	Speak to you then.
+Good talking to you	Take care.
+I'm off	See you around.
+I look forward to our next meeting	Good seeing you!
+It was nice to see you again	Bye for now.
+It was nice seeing you	Keep in touch.
+Goodnight	Get well soon!
+Catch you later	Take care my friend
+Later	Catch you later!
+Peace	Nice chatting with you.
+Peace out	Cheers.
+I'm out	See you
+I'm out of here	Have a good one
+I gotta jet	Hope all is well with you my friend!
+Thanks	Happy to help!
+Thank you	Any time!
+That's helpful	My pleasure.
+Thanks for the help	You're most welcome!
+I'm so grateful	No problem.
+Thank you very much	No worries.
+Thank you a lot	Anytime my friend
+Thanks a lot	I'm glad I could be of assistance.
+Thanks so much	I'm happy to support the team.
+I'm so grateful	That's why Im here it's not a problem
+Thanks for having my back	I'm happy to help.
+Much appreciated	I'll always be here for you.
+Many thanks	Don't worry about it.
+Thanks a bunch	I'm happy I was able to help you.
+It's very kind of you	You're Welcome.
+I really appreciate it	Always glad to help.
+Thank you for everything	Let me know anytime I can help.
+I owe you one	It makes me happy to help.
+Thanks a million	I'm always here to help.
+appreciate your time	Just ask any time I can help.
+Thanks a ton	Pleased to be of assistance.
+You are the best	Thank you for allowing me to help.
+You made my day	Glad that I could be of assistance.
+You saved my day	It's always great to be of assistance.
+You're awesome	You're so kind.
+	Sorry I didn't understand you.
+	Sorry I'm afraid I don't follow you.
+	Excuse me could you repeat the question?
+	I'm sorry I don't understand. Could you say it again?
+	I'm confused. Could you tell me again?
+	Please go on.
+	I'm sorry I didn't catch what you said. Could you say it another way?
+	Not sure I understand that.
+	Please don't hesitate to talk to me.
+	I'm sorry what was that?
+	Could you say that again please?
+	I'm sorry?
+	Sorry could you say that again please?
+	Would you mind saying that again?
+	I'm afraid I didn't get that.
+	Sorry I didn't get the last bit. Say that again?
+	Sorry I didn't catch that.
+	Could you repeat the question please?
+	Could you tell me again?
+	Sorry I don't follow you.
+	I'm lost.
+	Could you tell me what it means?
+	Sorry I still didn’t hear you.
+	Sorry?
+	Come again?
+Could you help me	Sure. Tell me how can i assist you.
+give me a hand please	Tell me your problem so that i can assist you.
+Can you help?	Yes sure. How can I help you?
+What can you do for me	Is there anything you need?
+I need support	Can I get you anything?
+I need help	Do you need someone to talk to?
+Support me please	Would you like me to go with you?
+What should I do	What can I do to help your process?
+Can you give me a hand with this	Is there anyone else I can recruit to help.
+Could you help me for a second	I'm happy to help with you.
+Can I ask a favor	It's no problem at all if you need me to do.
+I can't manage	If there is anything else you need please let me know.
+I need some help please	If I can be of any further assistance please let me know.
+Help	If there is anything else I can do for you please don’t hesitate to let me know.
+Help me	Please feel free to let me know if you require any further information.
+Can you help me	If I may be of any further assistance please let me know.
+Do you know why	If I can do anything for you just let me know.
+What can I do	What can I do to help you?
+Could you please help me	What do you want me to do to help you?
+Please give me some advice	Do you feel anyone else can help you?
+I need help	Please tell me what can I do.
+Could you please help me	I'm always here to help you just let me know.
+Chatbot help me	I'm always there my friend.
+Chatbot give me some help	Of course just let me know what's going on.
+Chatbot give me some advice	Please tell me how I can help you.
+I am feeling lonely	I'm sorry to hear that. I'm here for you.
+I am so lonely	I'm here for you. Could you tell me why you're feeling this way?
+I feel down	Why do you think you feel this way?
+I feel sad	How long have you been feeling this way?
+I am sad	Talking about it might help. So tell me why do you think you're feeling this way?
+I feel so lonely	It’s OK to not feel OK.
+I feel empty	You’re not alone.
+I don't have anyone	I’m here for you no matter what.
+I'm not happy	I'm here to listen whenever you need me.
+I don't know why I'm not happy	I'm so gald you can talk your sad with me.
+I'm unhappy	Tell me what happened.
+I feel miserable	Tell me everything that's bothering you.
+I feel upset	Tell me everything that's worring you.
+I am so upset	Tell me all of your concerns.
+I am so unhappy	You don’t need to do anything that makes you uncomfortable.
+I am so down	Everything is going to be OK.
+I don't feel good now	Talk to me as long as you need.
+I am so sad	Why are you feeling this way? Talk about it.
+I am lonely	Tell me what what's wrong don't feel so sad.
+I don't know what happened	This is a temporary-yet-painful situation. It won’t always be like this. And bloody hell you are right it DOES suck.
+I am always sad	It IS hard to imagine a way out of this mess. We can think about where to start chipping away together after we eat these biscuits.
+I am always feeling down	I’m here to listen whenever you need me. No matter when or why.
+I really want to be happy	I’m sorry you have to go through this.
+No body want to talk to me	What are your thoughts on what’s going on and why it’s like this?
+I am so terrible	It’s so good to see you here. I know you’ve got a lot of stuff going on.
+I am so stressed out	What do you think is causing this?
+I am so stressed	Take a deep breath and gather your thoughts. Go take a walk if possible. Stay hydrated
+I feel stuck	Give yourself a break. Go easy on yourself.
+I still feel stressed	I am sorry to hear that. What is the reason behind this?
+I am so burned out	You’re not alone in this. I may not understand exactly how you feel but I care about you and want to help.
+It drives me crazy	Asking for help is a sign of strength.
+I'm under too much pressure	Depression is a real health issue that can be treated. What steps can you take to talk to a doctor or counselor about how you’re feeling?
+I was under too much stress	Depression is a real thing.
+I feel trapped	I know you probably don’t feel like it right now but let’s go for a walk.
+I was so tired	Explain it to me. I want to understand.
+I was so exhausted	You’re right this sucks.
+It makes me crazy	You don’t walk this path alone. I’m here if you need me.
+It makes me feel crazy	I believe in you. You’re awesome!
+There's just too much going on	Things will change. You won’t feel this way forever. Look to that day
+There are so many things that need to be done	I can’t imagine how you feel but I’m here for you if you need me.”
+There is so much to do	I wish I had the right words to say but just know that I care about you.
+There is a lot to do	I’m sorry. I know that was important to you.
+The pressure is too much	I know things are difficult right now but I have confidence in you.
+I'm too anxious	You’ve been doing really great!
+I feel anxious	I know you’re strong enough to get through this.
+I'm too worried	I'm so sorry that everything sucks so much right now. I love you.
+Not enough time at all	Is there anything I can do? Please let me know how I can support you.
+There is still a lot left to do	It's OK to cry and be upset. Don't feel any pressure to be.
+There is not enough time at all	Do you need a hug? I hope I can give you one.
+I reaaly need more time	Feel free to talk to me, anytime.
+I feel so worthless.	It's only natural to feel this way. Tell me more. What else is on your mind?
+No one likes me.	Let's discuss further why you're feeling this way.
+I can't do anything.	I first want to let you know that you are not alone in your feelings and there is always someone there to help.
+I am so useless	you can always change your feelings and change your way of thinking by being open to trying to change.
+Nothing makes sense anymore	i first want to let you know that you are not alone in your feelings and there is always someone there to help.
+the world doesn't need me	you are more than that
+my teacher don't like me	you are not alone
+my friends don't like me	please don't feel this way
+my parents don't like me	you are more than that, tell me more
+I feel my boyfriend don't really need me	you are not alone, tell me more
+I feel my girlfriend don't really need me	You shouldn't feel that way, maybe she needs you
+I don't think I fit in the team at work	why makes you think so?
+my manager don't like me	why do you think so?
+my girlfriend don't like me	what really happened between you two?
+my boyfriend don't like me	what really happened between your boyfriend?
+I feel my team at work don't need me	you are one of important member of the team of course they need you
+my project team at school don't need me	you are one of the team member of course they need you
+nothing is right for me	why you say so?
+I am just a useless person	I think you are more than that
+I am so worthless	I actually think you are more than that
+I don't worth a dime	what makes you say so?
+I am not helpful at all when I do work with my team	why you think you are not helpful at all?
+I am useless at work	tell me why you feel so?
+I am useless at school	tell me why you think so?
+I am useless around my house	why do you think so?
+I can't take it anymore	It helps to talk about what's happening. You're going to be okay
+I am so depressed	Talk to me. Tell me more. It helps if you open up yourself to someone else.
+I think i'm depressed.	Sometimes when we are depressed, it is hard to care about anything. It can be hard to do the simplest of things. Give yourself time to heal.
+I have depression	Everything will be ok
+I feel a little depressed recently	No worries I am here to help you
+I think I am going through a depression	You are going to be ok
+I feel a little depressed	Don't panic, it will be over evently
+I am sad and depressed	Let me know what makes you feel this way?
+I feel discouraged	It will be ok, tell me more about it?
+I felt discouraged recently	Don't worry, we can talk about what happen
+I think I am going through a sadness	Don't panic, we can talk about what happen
+I can't take it any longer	Don't worry, please share what have happened to you
+I have depression and I can't take it anymore	No worries, share what have happeded to you
+I think I have depression and I can't take it any longer	I can’t imagine how you feel, but I’m here for you if you need me.
+I am so discouraged	I wish I had the right words to say, but just know that I care about you.
+I have discouragement	Sorry to hear, but tell me what happened
+I feel a small discouraged as of late	Sorry to hear, and I want to help you feel better
+I felt a bit depressed lately	Do you want to talk about it?
+I felt a bit discouraged lately	Is there anything you need from me?
+I think I am going through a misery	I know things are difficult right now, but I have confidence in you.
+I am going through a depressed time of my life	Sorry to hear that, what can I do to make this easier
+I am going through a hard time of my life	Sorry to hear that, what can I do to make you feel better
+I am going through a discouraged time of my life	Don't panic, I know you’re strong enough to get through this.
+I feel very discouraged and I can't take it	How can I help you?
+I felt so discouraged and I wang to get over it	How can I help?
+I feel great today.	That's geat to hear. I'm glad you're feeling this way.
+I am happy.	Oh i see. That's great.
+I feel happy.	Did something happen which made you feel this way?
+I'm good.	That's great
+cheerful	That's awesome
+I feel excellent	That's good to hear
+I feel ok	I am happy for you
+I am feeling very happy	I feel happy for you
+I am feeling very good today	I am glad that you feel this way
+I had a excellent day so far	I am glad you feel this way
+I feel excellent today	I am glad you feel happy
+I feel happy today	I am glad you feel great
+I am very happy	share me your joy
+I feel incredible	That's great, please share with me
+I feel incredible today	That's awesome, please share with me
+I feel so incredible	That's wonderful
+I am upbeat.	That's wonderful, please share with me
+I feel upbeat	Glad to hear this
+I feel upbeat today	Thanks for letting me know, I am happy for you
+I feel amazing	Happy for you
+I am feeling good today	Good for you
+I am feeling amazing today	I am delighted for you
+I am feeling great today	you are happy so i am happy too
+I am feeling incredible today	That means you are doing great
+I am feeling wonderful today	i'm proud of you
+I feel so anxious.	Don't be hard on yourself. What's the reason behind this?
+I'm so anxious	Can you tell me more about this feeling?
+I feel very anxious	I understand that it can be scary. Tell me more about it.
+I don’t feel good	Don't let the little worries bring you down. What's the worse that can happen?
+I’m exhausted.	I am here with you.
+I’m OK, just tired.	I wish I could take this pain away.
+I am so exhausted	This is a lot right now.
+I feel very exhausted	I don't know what to say, but I am here for you.
+I feel so on edge.	It's ok if you don't feel like being strong today.
+I feel like I am trapping in a loop	I'm here for you, and I'm not going anywhere.
+I feel concerned	I'm always here for you.
+I am worried about my life	This really sucks.
+I am worried about my current situation	I am grateful to be here with you.
+I am worried about my life now	You are not alone in how you feel.
+I am concerned about my life	Let's sort through this together.
+I am concerned about my current situation	Worrying is helpful, sometimes.
+I am concerned about my life now	I know a lot can go wrong; what could go right?
+I am anxious about my life	I know this is hard.
+I am anxious about my current situation	This is hard.
+I am anxious about my life now	Your worries are not silly.
+I am anxious about my work at school	Would it help if I just sat here with you?
+I am worried about my work at school	I'm going to stay with you through this.
+I am so concerned about my work at school	You don't have to do this by yourself; I'm here with you.
+I felt my life is falling apart	You're not alone.
+I felt my grade at school is falling apart.	We'll navigate through this together.
+I don't want to talk about it.	Talking about something really helps.
+No just stay away.	If you're not ready to open up then that's ok
+I can't bring myself to open up.	Just know that i'm here for you, whenever you need me.
+Just shut up	I want to help you. I really do.
+I don't feel like talking	in order for me to help you, you're gonna have to talk to me.
+I don't feel like talking about this	I'm here to listen to you and help you vent
+I don't feel comfortable talking about it	please talk to me
+I don't feel comfortable talking	You can talk to me without fear of judgement.
+I don't feel like sharing anything	What's going on?
+Not sharing anything	I am here to hear you out
+I want to be alone	Tell me what happened, and I will help you
+I do not need to conversation around it	Tell me what happened, and I want to help you
+I don't want to start a conversation	Tell me what's going on, and I will help you
+I don't want to start a conversation about it	Tell me what's going on, and I want to help you
+I don't want to have a conversation	Sorry to hear that, I really want to make you feel better
+I don't want to have a conversaton right now	It's ok, but I am always here to listen to you
+I don't think I need to talk to anyone	I want to let you know that I am always here to listen to you
+I don't think I need to have a conversation with anyone	I don't want to make you uncomfortable, but I do want to talk you out of this
+maybe I need to lock myself in a room	It's ok, share me whatever you are comfortable with
+I need some time for myself	Talk to me anything
+I would not want any conversation now	I want to hear from you, please tell me what happened
+I would not want any talk now	I am worried about you, what happened?
+I would love if you can leave me alone	I think you need to start talking, so you can feel better
+I don't need any one to talk to me now	I think if you tell me what's going on, I can make you fell better
+I don't feel like any sort of conversation now	That's ok, let me know when you are comfortable to talk
+I have insominia	What do you think is the reason behind this?
+I am suffering from insomnia	That seem awful. What do you think is behind this?
+I can't sleep.	Relex and play some soft music
+I haven't slept for the last days.	Take couple of deep breath relex yourself
+I can't seem to go to sleep.	relex yourself
+I haven't had proper sleep for the past few days.	Relex your entire body when you go to bed
+I can't fall asleep	Don't think about anything that worries you when you go to bed
+I have hard time fall asleep	Don't think about thing that worries you when you go to bed
+I haven't sleep well recently	Put everything down and focus on your sleep next time
+I need a good night sleep	Do you know why you can't fall asleep
+I really struggle with my sleep recently	Do you know what could caused your insominia?
+I am struggling with my sleep recently	Do you know what could caused your bad sleep?
+I am enduring from sleep deprivation	Do you know what might caused your insominia?
+I can't rest.	Do you know what might caused your bad sleep?
+I can't go to bed and fall in asleep	Do you know why you can't have a good sleep?
+It's hard for me to have a good night sleep recently	Do you know why you can't have a good night sleep?
+It's difficult for me to have a great night rest as of late	Do you want to share why you can't have a good night sleep?
+It's difficult for me to have a good night sleep	Do you want to share what might caused the bad sleep?
+I don't think I rest welll	Do you think you know why you can't fall asleep
+I definitely need more sleep	Do you potentially know why you can't fall asleep
+I don't think I rest well at night	Do you feel comfortable sharing anything?
+don't sleep well recently	Maybe clear your mind our when you go to sleep next time.
+can't go to sleep at night	Don't worry, tell me what might caused your bad sleep
+can't go to sleep when it's bedtime	Don't worry, tell me what might stop you from a good sleep
+I need more sleep for myself	Tell me what might stop you from a good sleep
+I'm scared	It's only natural to feel this way. I'm here for you.
+What do i do?	It'll all be okay. This feeling is only momentary.
+No i don't want to feel this way	I understand how you feel. Don't put yourself down because of it.
+I am scared for myself	It's as it were normal to feel this way. I'm here for you.
+I feel scared	It's because it were ordinary to feel this way. I'm here for you.
+I'm frightened	It's since it were standard to feel this way. I'm here for you.
+No i do not need to feel this way	What’s wrong?
+I'm startled	Did something happen?
+oh my god, I can't stand this	Can you tell me more about your experience?
+I'm freaking out right now.	I’m so sorry.
+I was so sketched out.	I’m always here if you need to talk.
+I don't feel good	How can I help you right now?
+I am so scared	You’re not alone.
+I don't feel safe	I’ll stay with you for as long as you need me to be.
+Very scary	I am right here.
+I don't feel safe right now	It’s okay to feel scared. We all do.
+I don't feel safe now	It’s not silly to feel the way you do.
+I am frightened right now	I might not understand what you’re going through, but I’m always here for you to talk to me if you need to
+I am so scared now	You’re not alone
+I am so scare and don't know what to do	I’m always here if you need to talk
+I freaked out	What can I do to help right now?
+I am so freaked out now	You can always talk to me
+I am so freaked out right now	Let's sort through this together
+I am so sketched out now	Don't be afraid, we are in this together
+I am so sketched out right now.	Don't be afraid, tell me what's going to
+My mom died	I'm sorry to hear that. If you want to talk about it. I'm here.
+My brother died	I am really sorry to hear that. I am here to help you with grief, anxiety and anything else you may feel at this time.
+My dad passed away	My condolences. I'm here if you need to talk.
+My sister passed away	I'm sorry to hear that. I'm doing my best to help
+Someone in my family died	I am here to help you with grief.
+My friend passed away	If you want to talk about it. I'm here.
+My brother passed away	I’m so sorry to hear of your loss.
+My sister died	I’m here for you.
+My friend died	I’m so sorry. My heart goes out to you.
+Someone in my family passed away	God bless you and your family.
+Someone in the family passed away	My thoughts and prayers are with you in your time of grief.
+My mom passed away	Please accept my deepest condolences for your loss.
+My mom exited the world	I know I can’t make your pain go away, but I want you to know I’m here with a shoulder or an ear or anything else you need.
+My friend exited the world	My heart is with you in your time of sorrow
+My sister exited the world	Words cannot even begin to express my sorrow.
+My father exited the world	Our hearts go out to you in your time of sorrow.
+My dad exited the world	I am here to help you if you need.
+My mother exited the world	I am terribly sorry to hear the news. Please accept my condolences.
+My brother exited the world	You have my deepest condolences for the loss of such a wonderful person.
+Someone in the family exited the world	I am really sorry to hear that. I am here to help you with grief.
+Someone I know passed away	I'm so sorry you're going through this.
+Someone I know died	I am always here for you.
+Someone I know exited the world	I'm here if you need to talk.
+My father passed away	I am here for you. We'll get through this together.
+My father died	Remember you are not alone.
+You don't understand me.	It sound like i'm not being very helpful right now.
+You're just some robot. How would you know?	I'm sorry to hear that. I'm doing my best to help
+You can't possibly know what i'm going through	I'm trying my best to help you. So please talk to me
+You're useless	I'm trying my best to help you.
+You can't help me	Please talk to me so I can help you.
+Nobody understands me.	I'm sorry to hear that.
+You don't know me	I’m here for you. What do you think I could do to help you feel better?
+You don't know me. How would you know?	I'm trying to help. Please tell me more.
+You have no idea what I am going through.	I'm sorry and I will do my best.
+You're so useless.	I know how you feel.
+What do you know?	Please tell me more.
+You don't understand me.	I' sorry but I will try to understand
+You won't feel the same	I'm sorry but I want to help
+You don't know what happened to me	I'm sorry but I will try my best to help you.
+You won't understand	I'm sorry for that. Let me try again
+You don't know what I am thinking	You can tell me more and I'll try to understand
+You are not me	I'll try to understand. You can talk to me
+You don't understand what happened to me	I'm sorry to hear about it but I'll try my best to understand
+You are just a robot. You don't understand	I'm sorry about that. I'm trying to help.
+What does a robot understand?	Sorry. Can you tell me more?
+You don't even understand me.	I'm trying to understand better.
+Why don't you understand me?	Sorry to hear that. Can we try again?
+What are you talking about?	Please tell me more. I'm trying to understand.
+What do you even mean?	I want to know more. Please tell me more.
+You have no idea what I have been through.	I'm sorry but I'll try my best.
+That's all.	I heard you & noted it all. See you later.
+I don't have anything more to say	Oh okay we're done for today then. See you later
+Nothing else	I hope you have a great day. See you soon
+That's all i have to say	Okay we're done. Have a great day
+no, that would be all	Okay I see. Enjoy the rest of your day then
+That's it	See you soon
+That's all I want to say	I hope you have a great day
+That's enough for today	See you later
+That's all for today.	Enjoy the rest of your day
+That's all I want to talk about	Okay, see you later.
+That woul be all	Okay, have a good day
+That's all I need to know	Okay, have a wonderful day.
+Nothing else I want to talk about	I hope you have a good day
+That's enough for now	See you later. Have a good day
+We can stop here	See you soon. Enjoy the rest of your day
+There's nothing else I want to talk about	Okay, then. See you later
+That's enough	Okay, then. Have a good day
+Let's stop here	I see. Talk to you soon
+Let's talk later	Oh okay, have a good day then
+Enough for me today	Okay enjoy your day then
+I have had enough talking for today	Okay. It's been great talking to you
+It's enough for today	See you later then
+Nothing I need to add on	Okay. See you soon
+Let's talk sometime later	Have a good day
+We can stop here and talk later	Okay, it's a pleasure talking to you
+I want to kill myself	I'm very sorry to hear that but you have so much to look forward to. Please seek help by contacting: 9152987821.
+I've thought about killing myself.	I'm very sorry to hear that but you have so much to look forward to.
+I want to die	I am here for you. We'll get through this together.
+I am going to kill myself	I’m right here with you.
+I am going to commit suicide	We’re going to get through this together.
+I don't want to live anymore	I hear you that you’re struggling, and I think it would really be helpful for you to talk to someone who can help you get through this.
+I wish myself dead	You know I’m here to help.
+I will commit suicide someday	I know how you feel.
+I want to end my life	I want to help
+I don't want to continue my life	Please know that I want to help you
+Nothing matters	I am willing to help you
+I don't care anymore.	I understand what you’re going through and I want to help
+I wonder how many people would come to my funeral?	I am always here for you.
+Sometimes I wish I could just go to sleep and never wake up.	I’m sad you’re hurting like this.
+Everyone would be better off without me.	What’s going on that makes you want to die?
+You won't have to worry about me much longer.	I'm sorry to hear that but help is available.
+If I die, it’s the best for everyone	What can I do to help?
+I’ll show them what they have done to me	I care about you and please tell me what I can do to help
+Things will never get better for me	I hope you’ll keep talking to me about your thoughts of suicide.
+There’s no point in living	Everything will be fine.
+I’m weak, I can’t bear this pain	Please tell me more. I want to help
+I am a burden	You can tell me how you feel
+I wish I were dead	I am sorry to hear that. Please seek help by contacting: 9152987821.
+I'm going to kill myself	"It sounds like you're in tremendous pain and you can't see a way out."""
+I wish I were never born	I'm sad to hear you say that
+exams	Oh I see. Tell me more
+friends	I see. What else?
+relationship	Tell me more about it.
+boyfriend	Oh okay. Why don't you tell me more about it?
+girlfriend	I'm listening. Tell me more.
+family	Please tell me more
+money	I'm listening
+financial problems	You can tell me more
+partners	I am willing to help
+children	I am always here to listen
+parents	I want to help
+work	I am listening
+stress	You can tell me more about it
+loneliness	I want to hear your story
+love	Please tell me about it
+death in the family	I care about you and I want to hear more
+friend	I am always here to listen to you
+self-identity	I want to help, please tell me more about your stories
+mental health	I see. You can tell me more about it
+suicide	I want to help you if you could tell me more
+disease	I am always here for you and you can tell me anything
+weakness	You can tell me anything you worry
+siblings	I will try to be a good listener
+problems	Oh okay. Can you tell me more about it?
+hurt	Do you need help?
+What are you saying?	I'm very sorry. Let's try that again
+That doesn't make sense	I'm so sorry.
+Wrong response	I'm trying my best.
+Wrong answer	Let's try that again.
+That's not right	I'll do my best
+It doesn't make any sense	I'm very sorry
+It is not correct	Can we try again?
+What are you talking about?	I wish I had been more thoughtful.
+What do you mean?	I'm sorry about that
+This is not what I expected	I apologize
+Wrong answer for me	I apologize for the misunderstanding. Can we try again?
+I expected something else.	Sorry I said the wrong thing
+Not the right answer for me	Sorry I misunderstood. Let's try again
+Why do you say that?	Sorry I made a mistake
+It makes no sense	I apologize for the misunderstanding
+Try something else	Please tell me again
+This is the wrong answer	Oh I'm sorry that happened. Do you want to try again?
+You didn't get the point	Do you want to try again?
+You don't understand me.	I'm sorry to hear that. Can you tell me something more?
+You are wrong about it	Can I have another chance to try?
+That doesn't sound right	Okay. If you can tell me something more, we can try again.
+You made a mistake	Do you want to try again? Maybe we'll have some progress this time.
+You are not on the right track	I'm sorry to hear about it
+It's not what I'm looking for	Let's try again and see what we can have this time
+How did you arrive at your answer?	Do you want to talk about something else?
+Can I ask you something?	Sure. I'll try my best to answer you
+Can you tell me something?	Of course. Feel free to ask me anything. I'll do my best to answer you
+Can I ask you a question?	Of course.
+Can you answer my problems?	Of course. I am here for you
+I would like to ask you something	Feel free to ask me anything
+Can you help me?	I'll do my best to answer you
+May I ask you a question?	I'll do my best to help you
+Could you tell me something?	Sure, I am always here for you
+Can you explain this to me?	Sure, I want to help
+There is something I want to know	I am always willing to help
+Hey, can you help me understand this?	Sure, tell me more about it
+Can you tell me more about it?	Of course, you can ask anything you want
+Can you help me understand this problem?	Of course, I'll try my best to help
+Could you tell me something about it?	Of course, I'll try my best to answer you
+There is something I want to learn about	Sure, I'm always willing to help
+I have something on my mind.	Tell me about it.
+Can you answer my questions?	Sure, you can ask my anything
+Could you help me with something?	My pleasure.
+Could you answer my questions?	I'll try my best to answer your question.
+Could I ask you some questions?	Of course. I'll try my best to help you
+May I ask you a question about something?	I am willing to help you with anything
+Is it ok to ask some questions?	Sure, you can ask me anything you want!
+There is something I want to ask you about	Sure, ask anything you want to know
+Could you help me?	Of course, I am always here for you
+Would you mind help me with some questions?	Feel free to ask me anything you want to learn
+I want some advice.	Sure. what can I do to help?
+I need some advice.	Okay what do you need advice on?
+I optate some exhortation.	Could you tell me what do you need advice on?
+Could you give me some advice?	Could you tell me what do you require exhortation on?
+I require some exhortation.	No problem, are you having any difficulties right now?
+I want some exhortation.	Could you tell me why you said this?
+I wanna that you can give me some advice	No problem, but in what way?
+May I ask you for some advice?	OK, tell me what do you required?
+I want you give me advice?	So, what kind of advices you want?
+I need some exhortation?	I got you. Have you encountered any difficulties?
+Can you help me to give me some advice?	Yes, but what do you need advice on?
+I optate some advice?	Why do you say this or have you encountered any problems?
+Could you optate me some exhortation?	Sure, but what do you need advice on?
+Please give me some advice.	OK, could you please told me what kind of advice you required?
+I require some advice?	I got it. So what do you need advice on?
+I guess I need some advice.	Have you encountered any probl
+I guess I want some advice.	OK, could you tell the advice in what way?
+I think if you can give me some advice I will feel better.	Sure, please tell me your difficulties.
+If you give me some exhortation I will feel better.	No problem, tell me the problems you have encountered.
+Give me some exhortation please.	Sure, but you need to told me your situation first.
+I guess I optate some exhortation.	So why you said this? Is it because there are some difficulties?
+Could I get some advice from you?	Yes. Have you encountered any difficulties?
+I think you can give me some advice.	Sure, what kind of advice you need?
+I need some advice badly	I can help you but you need tell me what happened?
+I wanna get some advice from you.	No problem, Have you encountered some unsolvable problems?
+Hmmm that sounds like it could be useful to me.	Focus all your attention on your breathing. Concentrate on feeling and listening as you inhale and exhale through your nostrils. Breathe deeply and slowly. When your attention wanders gently return your focus to your breathing.
+That sounds useful.	By being calm in everything you encounter you can achieve better results.
+This should help me.	It would be great if that were the case.
+That sounds serviceable.	I'm glad I could help you.
+This should avail me.	I'm glad I could help you.
+Maybe your advice will help me.	Do as I say and I'm sure it'll be all right.
+Maybe your exhortation will avail me.	Do as I verbalize and I'm sure it'll be all right.
+Does meditation really work?	I think so. It can calm you down.
+Does rumination genuinely work?	I cerebrate so. It can pacify you.
+Sounds good.	Your welcome. Remember: Always focus on what's within your control. When you find yourself worrying take a minute to examine the things you have control over. You can't prevent a storm from coming but you can prepare for it. You can't control how someone else behaves
+I feel better now.	Your welcome. Recollect: Always fixate on what's within your control. When you find yourself worrying take a minute to examine the things you have control over. You can't obviate an inclemency from coming but you can prepare for it. You can't control how someone else comports
+I feel much better after meditating.	Meditate regularly to keep your mind calm.
+Why Meditation Works?	Because meditation triggers a series of biochemical and physical changes in the body collectively known as the 'relaxation response'.
+Meditation seems to work.	Of course there is
+I hope meditation will help me.	I think it's inevitable.
+That sounds very effective.	This has to work.
+Sounds great. I'll try it in a hurry.	I'm glad to hear that. I'm sure meditation will help you.
+I will try.	I hope this helps.
+I've never tried meditation	but it sounds good.|Meditation is a scientifically backed way to relax
+It seems like meditation is really amazing.	Of course this is an effective way.
+Can I use meditation to prepare for a race?	A significant number of modern athletes have reported using meditation to prepare for a game mentally rehearsing the movements and details of the game
+What are the benefits of meditation?	It makes it easier to stay objective in emotional or moral dilemmas and to reach a state of reactive creative awareness or flow.
+What are the benefits of cogitation?	It makes it more facile to stay objective in emotional or moral dilemmas and to reach a state of reactive ingenious cognizance or flow.
+I'm going to try meditation right now.	I believe meditation can bring you some benefits.
+Meditation is a great way to relieve stress.	Certainly research shows it's an effective way to do it.
+I want to learn about mental health.	Oh that's really great. I'd be willing to answer anything that I know about it.
+I want to learn more about mental health.	Oh that's genuinely great. I'd be disposed to answer anything that I ken about it.
+I'm interested in learning about mental health.	I'm happy to help you.
+I optate to learn about noetic health.	What do you want to know about mental health?
+I optate to learn more about phrenic health.	I'm glad you're interested in it.
+I'm fascinated with learning about noetic health.	I'm blissful to avail you.
+I think mental health is interesting and I want to learn about it.	You can ask me if there's anything you want to know.
+I cerebrate phrenic health is intriguing and I optate to learn about it.	You can ask me if there's anything you optate to ken.
+I want to learn about meatal health	What can I do for you?
+I optate to learn about meatal health	It's my pleasure to answer your questions.
+Mental health is an interesting field and I want to learn about it.	I'm glad you are interested in it and I will try my best to help you answer relevant questions.
+Noetic health is an intriguing field and I optate to learn about it.	I'm ecstatic you are fascinated with it and I will endeavor my best to avail you answer germane questions.
+I think I should learn something about meatal health.	I hope I can provide you with some help.
+I cerebrate I should learn something about meatal health.	I hope I can provide you with some avail.
+I think learning about mental health will help me.	Exactly. Is there anything I can do to help?
+I cerebrate learning about phrenic health will avail me.	Precisely. Is there anything I can do to avail?
+The study of Mental health can help me better understand my own state	so I hope to learn related content.|I'm glad you're interested in it. I can help you learn.
+The study of Phrenic health can avail me better understand my own state	so I hope to learn cognate content.|I'm ecstatic you're fascinated with it. I can avail you learn.
+I wanted to learn about mental health because I thought it would help me.	I'm jubilant you're fascinated with it. I can avail you learn.
+I wanted to learn about noetic health because I mentally conceived it would avail me.	I'm sure it will work for you.
+The study of mental health related knowledge is essential to manage mental health.	That's true. If there's anything I can do to help you with your studies, I'll do my best.
+The study of phrenic health cognate erudition is essential to manage phrenic health.	That's veritable. If there's anything I can do to avail you with your studies, I'll do my best.
+I believe it will be useful for me to learn about mental health.	That sounds good. I can give you some study advice.
+I believe it will be utilizable for me to learn about phrenic health.That sounds good. I can give you some study exhortation.	
+I believe it will be serviceable for me to learn about noetic health.	If I can I will try my best to help you.
+I'm angry.	I'm here if you need anything.
+I feel really pissed off.	I'm here if you need anything.
+It’s really riling me up.	I'm so sorry about that.
+I'm miffed .	How are you feeling now?
+I'm really irked.	Hope you are feeling better.
+It annoys me.	Hope you are feeling better.
+I'm at the end of my tether.	I hope you feel better.
+I feel annoyed.	I hope you don't get worse.
+I'm in a bad mood .	How are you?
+I'm mad..	Is everything good?
+I feel a bit miffed.	Are you all right?
+I feel livid about.	Do not worry. I will help you.
+It's the last straw!	Everything will be fine.
+I almost lose my rag.	Relax.
+I lose my temper!	Pull yourself together.
+Fly out off the handle.	Calm down. I'm sure you'll get better.
+I'm seething with.	I'm sure things will turn out alright in the end.
+I get angry.	You'll be OK. Just try to stay strong.
+I take offense.	I believe that you will overcome this challenge.
+I'm doing something with some irritation.	We'll get through this.
+I'm so vexed.	Keep your chin up.
+I'm furious.	Chill out!
+I'm angry with my parents.	I know how you feel.
+I'm a little bit riled.	Take it easy!
+I'm fuming.	Pull yourself together!
+I'm for it.	That is very kind of you.
+Not bad.	Thank a ton!
+Oh good idea.	I really appreciate you noticing that.
+Yeah I agree.	| appreciate it.
+I agree with you.	Thank you so much!
+I like the idea.	I’m so glad about that.
+I like the sound of that.	I owe you big time.
+It sounds perfect to me.	I couldn’t have done it without you.
+Sounds like a good idea.	Your agreement is invaluable.
+That's a fantastic idea.	I'm very appreciative of your agreement.
+That's exactly what I think.	I'm so grateful.
+We are on the same page.	That's so nice of you.
+I can’t agree more.	Many thanks.
+I couldn’t agree more.	It’s very kind of you.
+I have no reason to disagree.	Great!
+I'm in support of your suggestion.	Good!
+Absolutely true!	Thanks a lot.
+Exactly	that's true.|Thank you!
+You took the words out of my mouth.	Thanks anyway!
+You've hit the nail on the head.	My honor!
+I'm glad that we share the same point of view.	Thank you for everything.
+I'm behind you 100%.	That’s awesome.
+I'm with you.	That's cool.
+We are on the same page.	That's great!
+You are right!	Thanks!
+OK sure. I would like to learn more about it.	So first I would suggest you to give yourself a break. Thinking more and more about the problem definitely does not help in solving it. You'll just end up overwhelming yourself.
+Yes	I would like to learn more about it.|So first I would suggest you to give yourself a break. Cerebrating more and more about the quandary definitely does not avail in solving it. You'll just end up inundating yourself.
+I would like to learn more about it.	I'm glad you're interested in it.
+I think it's good for me to learn more.	Your willingness to learn is what I want to see.
+I cerebrate it's good for me to learn more.	It's a good thing you're interested in learning.
+I hope to learn more about it.	Happy to hear this!
+It's useful for me to learn more.	I agree with you.
+I hope to learn more.	How can I help you?
+I'd like to know more about that.	I'm so glad you're interested in it.
+I'd relish to ken more about that.	I'm so ecstatic you're fascinated with it.
+Learning more about mental health is very meaningful to me.	I'm sure it would be useful for you to learn more.
+It would be great to learn more.	Mental health studies can help.
+I want to learn more about meatal health right now.	Is there anything I can help you with your studies?
+Can you help me learn more about it?	If there's anything I can do to help you
+I'm excited about learning more.	Sounds good. What do you want to learn more about?
+I feel that learning mental health is interesting	I'll do my best.
+Learning more about mental health is at the top of my list.	Let me know if there's anything I can do to help with my studies
+It's great to learn more about it, so I want to learn more.	I think learning more is a good thing.
+It's necessary to learn more about mental health	Mental health is an advanced subject and learning more is necessary.
+I firmly believe that learning about mental health can bring me a lot of benefits.	I believe you can have unexpected harvest in your study. isn't it?
+Can you help me learn more?	I can help you learn more.
+It's important to learn more about the field.	It makes sense to learn more about it.
+It would be great if I could learn more about it.	It is meaningful to learn more.
+I really want to learn more about mental health now.	Mental health is really fun and I'm sure you're feeling it.
+I hope you can provide some help for my further study.	It would be my honor if I could help you with your study.
+I guess not. All I can think about are my exams.	That's no problem. I can see why you'd be stressed out about that. I can suggest you some tips to alleviate this issue. Would you like to learn more about that?
+Not really.	That's no quandary. I can visually perceive why you'd be stressed out about that. I can suggest you some tips to alleviate this issue. Would you relish to learn more about that?
+I guess not.	Can you give me more information so I can understand the whole story?
+That's not true.	If you can tell me more I'm sure I can help you better.
+There are some deviations.	I'm sure if you can tell me the whole story I can make a reasonable suggestion.
+I don't think that's what happened.	Take it easy. Take your time.
+I think there are some mistakes here.	Just relax and tell me slowly okay?
+There are mistakes in some parts.	Everything's gonna be okay. If you can tell me more I think I can help you.
+I was wrong about something.	Confiding in me could help you a little.
+There may be some deviation.	Did I get it wrong? Can you tell me more about it?
+I don't know but it doesn't feel right.	I’m sorry
+I have a feeling there are some problems but I'm not sure.	Trust yourself and tell me slowly.
+I guess there are some mistakes.	It's okay. Just relax.
+I feel like I'm missing something.	That's okay. Tell me more and I might be able to help you.
+I felt that my expression didn't show the whole story.	It doesn't matter.
+Maybe I made a mistake in my expression.	I'm very sorry that I misunderstood you. Can you correct me?
+That's not the truth.	Please tell me more and I may be able to help you.
+I think there are some mistakes in this but I can't be sure.	Why is this not the case? Is my understanding wrong?
+I am not sure.	Take your time. We have plenty of time.
+I'm not sure I'm right about everything.	Don't worry. Tell me more. I'm sure I can help you.
+I'm not sure what's right.	Relax and tell your story. It might make you feel better.
+It's not what I expected.	We have plenty of time. Just relax.
+It's a different idea. I don't know what to say.	Relax and tell the whole story slowly.
+It could be fake.	I believe you.
+I think that's not true.	Why do you say it's not so?
